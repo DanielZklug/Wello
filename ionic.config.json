@@ -1,0 +1,7 @@
+{
+  "name": "Wello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
